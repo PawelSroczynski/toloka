@@ -1,4 +1,5 @@
-# Toloka App MVP Technical Specification
+# Toloka App 
+MVP Technical Specification
 ## Reviving Mutual Aid Through Technology
 
 ## 1. Project Overview
@@ -204,5 +205,8 @@ Users will be required to provide basic information:
 | Lack of hands-on learning opportunities | Structured DIY project-based education |
 | Weak community engagement | Discourse forum & direct messaging |
 
-## 11. Conclusion
+## 11. Historical Context
+Toloka – a fading Polish rural tradition of voluntary neighborly assistance during tasks like harvests. It begins with ceremonial invitations and ends with feasts, music, and dance. Beyond a mere custom, tłoka represents a ritual system rooted in mutual aid for the common good. While collaborative farming exists worldwide, tłoka holds unique spiritual significance in Central Europe, tied to ancestral traditions, as seen in Belarusian practices. Notably, the term tłoka appears in Belarusian, Lithuanian, Polish, Prussian, and Ukrainian cultures. Its influence on shaping the Rzeczpospolita – a historic multicultural and tolerant federation – is still debated. The geographic reach of this former state closely mirrors tłoka’s historical spread. The decline of both coincided with eroded solidarity. The word’s origin is disputed: some trace it to Prussian Talk (payment through hospitality), while Władysław Kopaliński links it to tłok (a crowd of helpers). Polish sociologist Florian Znaniecki saw tłoka as part of a broader solidarity uniting life against mortality. Though fading today, tłoka resurfaces unexpectedly – like during Belarus’s 1980s-90s revival, when the group Tałaká emerged. Reviving such traditions could help Central Europe balance modernity with heritage, resisting cultural homogenization. Toloka’s principles invite study not just as history, but as a framework for rebuilding post-communist identities through shared spiritual roots.
+
+## 12. Conclusion
 Toloka is a modern revival of traditional communal work practices, connecting project owners with skilled volunteers while preserving cultural heritage. Through continuous improvement and user-driven iteration, it has the potential to expand internationally, promoting decentralized collaboration worldwide.
